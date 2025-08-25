@@ -1,0 +1,7 @@
+Age: int = 5 + 5
+Name = "Alice"
+Height = 5.9
+print(Name, "is", Age)
+print(Name.upper())
+print(Name.lower())
+# This should be a comment
