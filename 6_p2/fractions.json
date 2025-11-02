@@ -1,0 +1,33 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "value": {
+                "__fraction__": true,
+                "numerator": 3,
+                "denominator": 4
+            }
+        },
+        {
+            "id": 2,
+            "value": {
+                "__fraction__": true,
+                "numerator": 1,
+                "denominator": 3
+            }
+        },
+        {
+            "id": 3,
+            "value": {
+                "__fraction__": true,
+                "numerator": 1,
+                "denominator": 2
+            }
+        }
+    ],
+    "answer": {
+        "__fraction__": true,
+        "numerator": 5,
+        "denominator": 8
+    }
+}
