@@ -16,7 +16,9 @@
 # git merge <name> merges another branch into current
 # git branch -d <name> deletes a branch (safely)
 # git branch - creates a branch
-# git checkout -b <name> creates a new branch and switches to it
+# git checkout -b <name> creates a new branch (if <name> doesn't exist) and switches to it
 print("Hello World!")
 name = input("Enter your name: ")
 print(f"Hello {name.title()}!")
+
+print("New feature")
