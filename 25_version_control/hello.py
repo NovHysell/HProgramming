@@ -8,4 +8,15 @@
 # git log --online
 # git diff <file> - shows unstaged changes
 # git restore <file> - discards changes for a file
+# git rm <file> - removes a file
+
+# a branch is an independent line of development
+# Doesn't affect the original (main) until you merge
+# Perfect for features, bug fixes, and experiments
+# git merge <name> merges another branch into current
+# git branch -d <name> deletes a branch (safely)
+# git branch - creates a branch
+# git checkout -b <name> creates a new branch and switches to it
 print("Hello World!")
+name = input("Enter your name: ")
+print(f"Hello {name.title()}!")
