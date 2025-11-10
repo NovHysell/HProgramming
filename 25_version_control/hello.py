@@ -20,4 +20,6 @@
 print("Hello World!")
 name = input("Enter your name: ")
 print(f"Hello {name.title()}!")
-# There can be merging conflicts, such
+# There can be merging conflicts, such as the branches having different print statments
+
+print("New feature")
