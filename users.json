@@ -1,0 +1,72 @@
+[
+    {
+        "username": "cheryl57",
+        "name": "Allison Murphy",
+        "email": "roy04@example.org",
+        "address": "837 Burgess Falls Apt. 703\nErikaborough, NM 23748",
+        "age": 41
+    },
+    {
+        "username": "austinandrew",
+        "name": "John Johnson",
+        "email": "elliotttony@example.net",
+        "address": "861 Patterson Valleys\nEast Christopher, WV 76161",
+        "age": 25
+    },
+    {
+        "username": "joshuawells",
+        "name": "Richard Stewart",
+        "email": "richard85@example.com",
+        "address": "791 Vega Meadows Suite 954\nEast Tinamouth, CA 49698",
+        "age": 48
+    },
+    {
+        "username": "hgutierrez",
+        "name": "Sara Gonzalez",
+        "email": "jenniferwilliams@example.com",
+        "address": "496 Reese Divide\nColliertown, PR 69318",
+        "age": 54
+    },
+    {
+        "username": "megan34",
+        "name": "Ariel Perez",
+        "email": "saramartinez@example.net",
+        "address": "758 Russell Prairie\nLopezside, KY 97440",
+        "age": 57
+    },
+    {
+        "username": "dianahenry",
+        "name": "Jennifer Thomas",
+        "email": "joshua96@example.org",
+        "address": "57249 Bates Neck Suite 954\nHoltfort, NV 45738",
+        "age": 42
+    },
+    {
+        "username": "christopherdillon",
+        "name": "Allen Fritz",
+        "email": "robertrobinson@example.com",
+        "address": "37452 Anthony Spring\nNorth Lisatown, NY 57125",
+        "age": 86
+    },
+    {
+        "username": "barbararuiz",
+        "name": "Brandi Cameron",
+        "email": "mcclainshannon@example.org",
+        "address": "883 Frank Prairie\nFigueroaside, PR 76479",
+        "age": 35
+    },
+    {
+        "username": "robinsontheodore",
+        "name": "Martha Howell",
+        "email": "robert45@example.org",
+        "address": "USNV Villarreal\nFPO AE 55709",
+        "age": 80
+    },
+    {
+        "username": "tamara33",
+        "name": "Nathaniel Greene",
+        "email": "zspencer@example.org",
+        "address": "2578 Melissa Ramp\nMelissafort, PW 05557",
+        "age": 79
+    }
+]

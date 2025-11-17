@@ -1,0 +1,347 @@
+[
+    {
+        "user": {
+            "username": "cheryl57",
+            "name": "Allison Murphy",
+            "email": "roy04@example.org",
+            "address": "837 Burgess Falls Apt. 703\nErikaborough, NM 23748",
+            "age": 41
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20250226_20270422_45-65_USD",
+                "cmp_bgt": 183997,
+                "cmp_spent": 8212
+            },
+            {
+                "cmp_name": "20260115_20261117_30-40_EUR",
+                "cmp_bgt": 752350,
+                "cmp_spent": 416139
+            },
+            {
+                "cmp_name": "20260101_20261221_45-55_GBP",
+                "cmp_bgt": 475981,
+                "cmp_spent": 352773
+            },
+            {
+                "cmp_name": "20261018_20270202_40-60_EUR",
+                "cmp_bgt": 619776,
+                "cmp_spent": 508601
+            },
+            {
+                "cmp_name": "20261001_20270901_25-35_EUR",
+                "cmp_bgt": 106933,
+                "cmp_spent": 1809
+            },
+            {
+                "cmp_name": "20260401_20260528_20-25_USD",
+                "cmp_bgt": 974200,
+                "cmp_spent": 2226
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "austinandrew",
+            "name": "John Johnson",
+            "email": "elliotttony@example.net",
+            "address": "861 Patterson Valleys\nEast Christopher, WV 76161",
+            "age": 25
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20260221_20260115_35-45_EUR",
+                "cmp_bgt": 441106,
+                "cmp_spent": 279856
+            },
+            {
+                "cmp_name": "20250624_20261018_25-45_EUR",
+                "cmp_bgt": 276609,
+                "cmp_spent": 267602
+            },
+            {
+                "cmp_name": "20250514_20260627_30-55_USD",
+                "cmp_bgt": 718927,
+                "cmp_spent": 319964
+            },
+            {
+                "cmp_name": "20260925_20270722_25-40_GBP",
+                "cmp_bgt": 182585,
+                "cmp_spent": 77971
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "joshuawells",
+            "name": "Richard Stewart",
+            "email": "richard85@example.com",
+            "address": "791 Vega Meadows Suite 954\nEast Tinamouth, CA 49698",
+            "age": 48
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20261017_20250509_35-45_USD",
+                "cmp_bgt": 807744,
+                "cmp_spent": 419364
+            },
+            {
+                "cmp_name": "20260323_20250919_20-25_USD",
+                "cmp_bgt": 325040,
+                "cmp_spent": 35873
+            },
+            {
+                "cmp_name": "20260522_20280509_30-40_USD",
+                "cmp_bgt": 222721,
+                "cmp_spent": 21850
+            },
+            {
+                "cmp_name": "20260421_20270307_35-60_USD",
+                "cmp_bgt": 363724,
+                "cmp_spent": 104797
+            },
+            {
+                "cmp_name": "20250313_20270628_40-55_USD",
+                "cmp_bgt": 970685,
+                "cmp_spent": 610795
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "hgutierrez",
+            "name": "Sara Gonzalez",
+            "email": "jenniferwilliams@example.com",
+            "address": "496 Reese Divide\nColliertown, PR 69318",
+            "age": 54
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20251227_20271214_30-55_GBP",
+                "cmp_bgt": 706581,
+                "cmp_spent": 289821
+            },
+            {
+                "cmp_name": "20260113_20261002_35-45_USD",
+                "cmp_bgt": 88438,
+                "cmp_spent": 37914
+            },
+            {
+                "cmp_name": "20251110_20280112_20-45_USD",
+                "cmp_bgt": 846844,
+                "cmp_spent": 333375
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "megan34",
+            "name": "Ariel Perez",
+            "email": "saramartinez@example.net",
+            "address": "758 Russell Prairie\nLopezside, KY 97440",
+            "age": 57
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20260925_20260820_35-40_GBP",
+                "cmp_bgt": 994999,
+                "cmp_spent": 621236
+            },
+            {
+                "cmp_name": "20261025_20260927_45-55_USD",
+                "cmp_bgt": 319081,
+                "cmp_spent": 170834
+            },
+            {
+                "cmp_name": "20260115_20260219_35-40_USD",
+                "cmp_bgt": 904449,
+                "cmp_spent": 418404
+            },
+            {
+                "cmp_name": "20260729_20260320_20-30_USD",
+                "cmp_bgt": 617378,
+                "cmp_spent": 278937
+            },
+            {
+                "cmp_name": "20250824_20260816_30-35_GBP",
+                "cmp_bgt": 38726,
+                "cmp_spent": 2595
+            },
+            {
+                "cmp_name": "20250208_20250902_45-70_USD",
+                "cmp_bgt": 273057,
+                "cmp_spent": 246560
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "dianahenry",
+            "name": "Jennifer Thomas",
+            "email": "joshua96@example.org",
+            "address": "57249 Bates Neck Suite 954\nHoltfort, NV 45738",
+            "age": 42
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20260804_20280316_30-45_USD",
+                "cmp_bgt": 407982,
+                "cmp_spent": 18087
+            },
+            {
+                "cmp_name": "20251118_20260127_40-55_GBP",
+                "cmp_bgt": 654862,
+                "cmp_spent": 552158
+            },
+            {
+                "cmp_name": "20250306_20271206_45-70_USD",
+                "cmp_bgt": 478679,
+                "cmp_spent": 325636
+            },
+            {
+                "cmp_name": "20260424_20280528_45-55_GBP",
+                "cmp_bgt": 144636,
+                "cmp_spent": 129096
+            },
+            {
+                "cmp_name": "20250901_20260313_20-30_USD",
+                "cmp_bgt": 434674,
+                "cmp_spent": 18393
+            },
+            {
+                "cmp_name": "20251222_20280606_25-35_EUR",
+                "cmp_bgt": 81339,
+                "cmp_spent": 30243
+            },
+            {
+                "cmp_name": "20250920_20260411_25-50_GBP",
+                "cmp_bgt": 401868,
+                "cmp_spent": 363075
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "christopherdillon",
+            "name": "Allen Fritz",
+            "email": "robertrobinson@example.com",
+            "address": "37452 Anthony Spring\nNorth Lisatown, NY 57125",
+            "age": 86
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20251006_20260211_30-45_GBP",
+                "cmp_bgt": 625319,
+                "cmp_spent": 419655
+            },
+            {
+                "cmp_name": "20260123_20261006_40-45_GBP",
+                "cmp_bgt": 846737,
+                "cmp_spent": 83085
+            },
+            {
+                "cmp_name": "20250804_20270205_35-40_USD",
+                "cmp_bgt": 431010,
+                "cmp_spent": 85956
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "barbararuiz",
+            "name": "Brandi Cameron",
+            "email": "mcclainshannon@example.org",
+            "address": "883 Frank Prairie\nFigueroaside, PR 76479",
+            "age": 35
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20250128_20250724_25-40_GBP",
+                "cmp_bgt": 323050,
+                "cmp_spent": 317723
+            },
+            {
+                "cmp_name": "20251004_20280311_30-35_GBP",
+                "cmp_bgt": 340700,
+                "cmp_spent": 88542
+            },
+            {
+                "cmp_name": "20250924_20271122_20-30_GBP",
+                "cmp_bgt": 991107,
+                "cmp_spent": 529272
+            },
+            {
+                "cmp_name": "20251220_20250308_45-60_USD",
+                "cmp_bgt": 968343,
+                "cmp_spent": 135558
+            },
+            {
+                "cmp_name": "20260509_20261019_30-55_GBP",
+                "cmp_bgt": 357187,
+                "cmp_spent": 267910
+            },
+            {
+                "cmp_name": "20260816_20250323_45-50_GBP",
+                "cmp_bgt": 970901,
+                "cmp_spent": 643071
+            },
+            {
+                "cmp_name": "20260604_20270222_20-40_EUR",
+                "cmp_bgt": 447750,
+                "cmp_spent": 299860
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "robinsontheodore",
+            "name": "Martha Howell",
+            "email": "robert45@example.org",
+            "address": "USNV Villarreal\nFPO AE 55709",
+            "age": 80
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20250619_20280403_35-60_EUR",
+                "cmp_bgt": 677435,
+                "cmp_spent": 652700
+            },
+            {
+                "cmp_name": "20250503_20251104_40-50_EUR",
+                "cmp_bgt": 486945,
+                "cmp_spent": 382347
+            },
+            {
+                "cmp_name": "20260404_20270603_30-50_USD",
+                "cmp_bgt": 741226,
+                "cmp_spent": 262660
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "tamara33",
+            "name": "Nathaniel Greene",
+            "email": "zspencer@example.org",
+            "address": "2578 Melissa Ramp\nMelissafort, PW 05557",
+            "age": 79
+        },
+        "campaigns": [
+            {
+                "cmp_name": "20251216_20260411_25-50_EUR",
+                "cmp_bgt": 955001,
+                "cmp_spent": 89948
+            },
+            {
+                "cmp_name": "20250519_20270610_30-45_USD",
+                "cmp_bgt": 495845,
+                "cmp_spent": 338351
+            },
+            {
+                "cmp_name": "20260607_20270219_20-35_USD",
+                "cmp_bgt": 976715,
+                "cmp_spent": 135323
+            }
+        ]
+    }
+]
