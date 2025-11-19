@@ -1,0 +1,72 @@
+[
+    {
+        "username": "george70",
+        "name": "Heather Glover",
+        "email": "kingsheri@example.com",
+        "address": "6481 Jennifer River\nLisatown, FL 39540",
+        "age": 68
+    },
+    {
+        "username": "sullivancheryl",
+        "name": "Deborah Perez",
+        "email": "zoe87@example.com",
+        "address": "2048 Sandy Cove Apt. 247\nFarleybury, NC 65651",
+        "age": 30
+    },
+    {
+        "username": "amber07",
+        "name": "James Atkinson",
+        "email": "schneiderkatie@example.com",
+        "address": "3414 Joshua River Apt. 647\nLake Katherinestad, CA 99345",
+        "age": 45
+    },
+    {
+        "username": "ooconnell",
+        "name": "Ruben Garcia",
+        "email": "qhensley@example.com",
+        "address": "70067 Gentry Parks\nDouglastown, VT 85565",
+        "age": 67
+    },
+    {
+        "username": "caustin",
+        "name": "Jill Washington",
+        "email": "rkline@example.org",
+        "address": "58978 Kim Row\nPaulatown, AS 11478",
+        "age": 84
+    },
+    {
+        "username": "hernandezandrew",
+        "name": "James Nguyen",
+        "email": "linda97@example.net",
+        "address": "7033 Lewis Route\nWest Colleen, MD 70914",
+        "age": 83
+    },
+    {
+        "username": "joshuaramos",
+        "name": "Travis Mata",
+        "email": "krobles@example.com",
+        "address": "51271 Amanda Falls\nDavidville, SC 04182",
+        "age": 47
+    },
+    {
+        "username": "kathryn56",
+        "name": "David Jones",
+        "email": "oferguson@example.org",
+        "address": "34051 Julie Cape\nNew Adamside, FM 54595",
+        "age": 60
+    },
+    {
+        "username": "wilsonnicholas",
+        "name": "Joshua Garcia",
+        "email": "erin91@example.net",
+        "address": "Unit 9059 Box 4649\nDPO AE 16260",
+        "age": 90
+    },
+    {
+        "username": "mcmillanfrancisco",
+        "name": "Taylor Brown",
+        "email": "seth66@example.com",
+        "address": "99189 Dawn Knolls Suite 204\nWest Kimberly, CA 60441",
+        "age": 55
+    }
+]
